@@ -1,6 +1,4 @@
-# enterprise-ai-video-pipeline# Enterprise 
-
-AI-Ready Video Data Infrastructure (90TB / ~850 Hours)
+# Enterprise AI-Ready Video Data Infrastructure (90TB / ~850 Hours)
 
 This repository serves as the technical infrastructure manifest and data integrity framework for our 23-year historical high-profile video archive (~850 hours / 90TB of 2K-8K cinematography across 7 continents). 
 
